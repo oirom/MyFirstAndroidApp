@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">MyFirstAndroidApp</string>
-    <string-array name="dayOfWeek">
+    <string name="dialog_title">Confirmation</string>
+    <string name="dialog_msg">Your selection will be checked. OK?</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_ng">Cancel</string>
+    <string name="dialog_btn_nu">ASK</string>
+    <string name="dialog_ok_toast">Your selection was checked.</string>
+    <string name="dialog_ng_toast">Your selection was canceled.</string>
+    <string name="dialog_nu_toast">Please tell me your order.</string>
+    <!--string-array name="dayOfWeek">
         <item>Sunday</item>
         <item>Monday</item>
         <item>Tuesday</item>
@@ -8,5 +16,5 @@
         <item>Thursday</item>
         <item>Friday</item>
         <item>Saturday</item>
-    </string-array>
+    </string-array-->
 </resources>
