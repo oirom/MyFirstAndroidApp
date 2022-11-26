@@ -12,12 +12,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val mainMenu = findViewById<ListView>(R.id.mainMenu)
-        val menuList = mutableListOf("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
-        val adapter = ArrayAdapter(this@MainActivity, android.R.layout.simple_list_item_1, menuList)
+        // val mainMenu = findViewById<ListView>(R.id.mainMenu)
+        // val menuList = mutableListOf("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+        // val adapter = ArrayAdapter(this@MainActivity, android.R.layout.simple_list_item_1, menuList)
 
-        mainMenu.adapter = adapter
-        mainMenu.onItemClickListener = ListItemClickListener()
+        // mainMenu.adapter = adapter
+        // mainMenu.onItemClickListener = ListItemClickListener()
     }
 
     private inner class ListItemClickListener : AdapterView.OnItemClickListener {

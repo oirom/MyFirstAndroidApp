@@ -8,6 +8,13 @@
     <string name="dialog_ok_toast">Your selection was checked.</string>
     <string name="dialog_ng_toast">Your selection was canceled.</string>
     <string name="dialog_nu_toast">Please tell me your order.</string>
+    <string name="tv_title">Please input information.</string>
+    <string name="tv_name">name</string>
+    <string name="tv_mail">e-mail</string>
+    <string name="tv_comment">comment</string>
+    <string name="bt_confirm">confirm</string>
+    <string name="bt_send">send</string>
+    <string name="bt_clear">clear</string>
     <!--string-array name="dayOfWeek">
         <item>Sunday</item>
         <item>Monday</item>
