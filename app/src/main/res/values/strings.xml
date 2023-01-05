@@ -1,27 +1,6 @@
 <resources>
     <string name="app_name">MyFirstAndroidApp</string>
-    <string name="dialog_title">Confirmation</string>
-    <string name="dialog_msg">Your selection will be checked. OK?</string>
-    <string name="dialog_btn_ok">OK</string>
-    <string name="dialog_btn_ng">Cancel</string>
-    <string name="dialog_btn_nu">ASK</string>
-    <string name="dialog_ok_toast">Your selection was checked.</string>
-    <string name="dialog_ng_toast">Your selection was canceled.</string>
-    <string name="dialog_nu_toast">Please tell me your order.</string>
-    <string name="tv_title">Please input information.</string>
-    <string name="tv_name">name</string>
-    <string name="tv_mail">e-mail</string>
-    <string name="tv_comment">comment</string>
-    <string name="bt_confirm">confirm</string>
-    <string name="bt_send">send</string>
-    <string name="bt_clear">clear</string>
-    <!--string-array name="dayOfWeek">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
-    </string-array-->
+    <string name="tv_thx_title">Complete</string>
+    <string name="tv_thx_desc">We accept order as follow. Thank you for your order.</string>
+    <string name="bt_thx_back">Back</string>
 </resources>
